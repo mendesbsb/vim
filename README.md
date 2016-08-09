@@ -1,2 +1,3 @@
 # vim
-tipos de vim
+Scripts para o vim.
+Cada caso um caso
